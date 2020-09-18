@@ -1,0 +1,1 @@
+{"author":"[property=\"og:novel:author\"]@content","coverUrl":"[property=\"og:image\"]@content","intro":"[property=\"og:description\"]@content","kind":"[property=\"og:novel:category\"]@content","lastChapter":"[property=\"og:novel:latest_chapter_name\"]@content&&[property=\"og:novel:update_time\"]@content","name":"[property=\"og:novel:book_name\"]@content"}
