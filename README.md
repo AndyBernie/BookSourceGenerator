@@ -1,6 +1,7 @@
 # 阅读书源合并工具
 
 ## 使用说明
+单个书源放在booksource目录下
 ```
 node ./release.js
 ```
